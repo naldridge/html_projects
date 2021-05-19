@@ -1,0 +1,21 @@
+h1.story-title {
+    font-size: 30px;
+}
+h2.chapter-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: red;
+}
+
+p {
+    font-family: "Papyrus";
+    font-size: 20px;
+    color: black;
+    width: 50%;
+}
+
+p#first-paragraph::first-letter {
+    font-family: "Brush Script MT";
+    font-size: 100px;
+    font-weight: bold;
+}
